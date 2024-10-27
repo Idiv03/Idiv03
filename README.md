@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idiv03&show_icons=true&locale=en" alt="idiv03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idiv03&" alt="idiv03" /></p>
+[![An image of @idiv03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/idiv03)](https://holopin.io/@idiv03)
