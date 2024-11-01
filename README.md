@@ -21,4 +21,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idiv03&show_icons=true&locale=en" alt="idiv03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idiv03&" alt="idiv03" /></p>
-[![@idiv03's Holopin badges->](https://holopin.me/idiv03)](https://holopin.io/@idiv03)
+<!--hacktoberfest 2024-->
+<details>	
+ <summary><b>HacktoberFest(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+
+<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="cplusplus" width="100" height="100"/>
+ <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="cplusplus" width="100" height="100"/>
+  
+   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-tumbler-0-0-0.webp" alt="cplusplus" width="100" height="100"/>
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-tumbler-hoodie-0-0.webp" alt="cplusplus" width="100" height="100"/>
+     <img src="https://assets.holopin.io/hf2024levels/level3-sloth-hello-tumbler-hoodie-sparkle-0.webp" alt="cplusplus" width="100" height="100"/>
+      <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tumbler-hoodie-sparkle-eclipse.webp" alt="cplusplus" width="100" height="100"/>
+      </div>
+</details>
