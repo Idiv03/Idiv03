@@ -24,14 +24,19 @@
 <!--hacktoberfest 2024-->
 <details>	
  <summary><b>HacktoberFest(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="cplusplus" width="100" height="100"/>
  <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="cplusplus" width="100" height="100"/>
-  
    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-tumbler-0-0-0.webp" alt="cplusplus" width="100" height="100"/>
     <img src="https://assets.holopin.io/hf2024levels/level2-sloth-hello-tumbler-hoodie-0-0.webp" alt="cplusplus" width="100" height="100"/>
      <img src="https://assets.holopin.io/hf2024levels/level3-sloth-hello-tumbler-hoodie-sparkle-0.webp" alt="cplusplus" width="100" height="100"/>
       <img src="https://assets.holopin.io/hf2024levels/level4-sloth-hello-tumbler-hoodie-sparkle-eclipse.webp" alt="cplusplus" width="100" height="100"/>
       </div>
+</details>
+
+<details>	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px"/>
+</div>
 </details>
